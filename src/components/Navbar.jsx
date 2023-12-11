@@ -62,7 +62,7 @@ const Navbar = () => {
             },
           }}
         >
-          Material UI
+          FB Clone
         </Typography>
         <SentimentSatisfiedAlt
           sx={{
